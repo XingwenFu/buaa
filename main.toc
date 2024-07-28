@@ -1,0 +1,45 @@
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}绪论}{1}{chapter.7}%
+\contentsline {section}{\numberline {1.1}概述}{2}{section.9}%
+\contentsline {section}{\numberline {1.2}内容要求}{2}{section.10}%
+\contentsline {subsection}{\numberline {1.2.1}封面}{3}{subsection.12}%
+\contentsline {subsection}{\numberline {1.2.2}题名页}{3}{subsection.13}%
+\contentsline {subsection}{\numberline {1.2.3}独创性声明和使用授权书}{3}{subsection.14}%
+\contentsline {subsection}{\numberline {1.2.4}摘要}{4}{subsection.15}%
+\contentsline {subsection}{\numberline {1.2.5}目录}{4}{subsection.16}%
+\contentsline {subsection}{\numberline {1.2.6}图表清单及主要符号表}{4}{subsection.17}%
+\contentsline {subsection}{\numberline {1.2.7}主体部分}{4}{subsection.18}%
+\contentsline {subsection}{\numberline {1.2.8}参考文献}{5}{subsection.19}%
+\contentsline {subsection}{\numberline {1.2.9}附录}{5}{subsection.20}%
+\contentsline {subsection}{\numberline {1.2.10}成果}{5}{subsection.21}%
+\contentsline {subsection}{\numberline {1.2.11}致谢}{6}{subsection.22}%
+\contentsline {subsection}{\numberline {1.2.12}作者简介}{6}{subsection.23}%
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}说明}{7}{chapter.24}%
+\contentsline {section}{\numberline {2.1}宏包使用}{7}{section.25}%
+\contentsline {section}{\numberline {2.2}选项设置}{9}{section.27}%
+\contentsline {section}{\numberline {2.3}章节撰写}{9}{section.28}%
+\contentsline {section}{\numberline {2.4}注意事项}{10}{section.29}%
+\contentsline {section}{\numberline {2.5}ToDo}{10}{section.30}%
+\contentsline {section}{\numberline {2.6}意见及问题反馈}{11}{section.31}%
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}示例}{12}{chapter.33}%
+\contentsline {section}{\numberline {3.1}参考文献引用}{12}{section.34}%
+\contentsline {subsection}{\numberline {3.1.1}数字标注}{12}{subsection.35}%
+\contentsline {subsection}{\numberline {3.1.2}数字标注-上标形式}{12}{subsection.36}%
+\contentsline {subsection}{\numberline {3.1.3}著者-出版年制标}{13}{subsection.37}%
+\contentsline {subsection}{\numberline {3.1.4}其他形式的标注}{13}{subsection.38}%
+\contentsline {section}{\numberline {3.2}浮动体}{14}{section.39}%
+\contentsline {section}{\numberline {3.3}算法环境}{14}{section.40}%
+\contentsline {subsection}{\numberline {3.3.1}三线表}{14}{subsection.53}%
+\contentsline {section}{\numberline {3.4}长表格}{16}{section.56}%
+\contentsline {section}{\numberline {3.5}插图}{17}{section.58}%
+\contentsline {section}{\numberline {3.6}数学环境}{18}{section.60}%
+\contentsline {subsection}{\numberline {3.6.1}数学符号}{18}{subsection.61}%
+\contentsline {subsection}{\numberline {3.6.2}定理、引理和证明}{18}{subsection.65}%
+\contentsline {subsection}{\numberline {3.6.3}自定义}{20}{subsection.83}%
+\contentsline {chapter}{结~~~~论}{22}{chapter*.87}%
+\contentsline {chapter}{参考文献}{23}{section*.88}%
+\contentsline {chapter}{附~~~~录}{24}{chapter*.90}%
+\contentsline {chapter}{攻读博士学位期间取得的研究成果}{25}{chapter*.96}%
+\contentsline {chapter}{致~~~~谢}{26}{chapter*.100}%
+\contentsline {chapter}{作者简介}{27}{chapter*.101}%
+\contentsline {chapter}{附~~~~录}{28}{chapter*.102}%
+\contentsfinish 

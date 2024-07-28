@@ -1,0 +1,32 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\providecommand{\href}[2]{\url{#2}}
+\providecommand{\doi}[1]{DOI: \href{http://dx.doi.org/#1}{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax\relax\else
+  \urlstyle{same}\fi
+
+\bibitem[Knuth(1986)]{knuth86a}
+\textup{Knuth D~E}.
+\newblock Computers and typesetting: A\quad the {\TeX}book\allowbreak[M].
+\newblock Reading, MA, USA: Addison-Wesley, 1986.
+
+\bibitem[Mittelbach\ et~al.(2004)Mittelbach, Goossens, Braams, and
+  Carlisle]{tlc2}
+\textup{Mittelbach F}, \textup{Goossens M}, \textup{Braams J}, et~al.
+\newblock The {\LaTeX} companion\allowbreak[M].
+\newblock 2nd ed.
+\newblock Reading, MA, USA: Addison-Wesley, 2004.
+
+\bibitem[Knuth(1984)]{knuth84}
+\textup{Knuth D~E}.
+\newblock Literate programming\allowbreak[J].
+\newblock The Computer Journal, 1984, 27\penalty0 (2): 97--111.
+
+\bibitem[王明亮(1998)]{db}
+王明亮.
+\newblock 中国学系统工程的\allowbreak[EB/OL].
+\newblock 1998.
+\newblock \url{http://www.cajcd.cn/put/980810-2.html}.
+
+\end{thebibliography}
